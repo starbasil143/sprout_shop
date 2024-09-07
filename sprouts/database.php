@@ -1,4 +1,3 @@
-<!-- Luke Smotherman lds6427    Abner Koffi ack7403 -->
 <?php
 
 class Database

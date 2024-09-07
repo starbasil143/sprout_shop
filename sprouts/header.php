@@ -1,5 +1,3 @@
-<!-- Luke Smotherman lds6427    Abner Koffi ack7403 -->
-
 <header>
     <img src="storelogo.png" height=125 alt="store logo for basil's swag sprout store"><br>
     <a href="index.php">Our home page</a> -
